@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 
 set -e
+set -x
 
 # Tag the latest build with the short git sha as well as version of key runtimes
 # and packages.
