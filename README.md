@@ -2,7 +2,8 @@
 
 Shows how to:
 
-- Download remote data as a Snakemake action
-- Use Docker volumes to persist data between runs 
-- Automatically tag Docker images with custom 'hooks'
+- [x] Download remote data as a Snakemake action 
+- [x] Automatically tag Docker images with custom 'hooks'
+    - See the `hooks` directory
+- [ ] Use Docker volumes to persist data between runs
  
